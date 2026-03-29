@@ -15,8 +15,3 @@ bitget_liquidity_map/
     └── custom_style.css # (Optional) Custom CSS to make Streamlit dark mode prettier
 ```
 ```
-```
-```
-```
-```
-```
